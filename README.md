@@ -1,2 +1,2 @@
 # TIK-TAK-TOE
-Created a password Generator web application, aims to generate a unique, secure and strong random password for users. Tech stacks: HTML, CSS, JavaScript
+Create a classic Tic Tac Toe game using HTML, CSS, and JavaScript. Design a responsive grid layout for the game board with CSS, allowing users to click to place their X or O marks. Implement JavaScript logic to handle turns, check for a winning combination, and display the winner or a draw message dynamically. Add styling to enhance the visual appeal and provide an enjoyable user experience.
