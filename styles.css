@@ -8,7 +8,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-image: url(./assets/gra.jpg);
+    background-image: url(./gra.jpg);
     background-size: cover;
     background-position: center;
     display: grid;
